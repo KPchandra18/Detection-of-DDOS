@@ -4,6 +4,7 @@ Introduction
 The goal is to overwhelm a target's resources (such as servers, bandwidth, or network components) by flooding it with a massive amount of malicious traffic. To maximize the impact of their attack, attackers often use amplification techniques. These techniques involve sending a small request to a vulnerable server or device and causing it to generate a much larger response, which is then directed towards the target.
 
 ![image](https://github.com/KPchandra18/Detection-of-DDOS/assets/93926748/5af90453-29be-4916-9aa8-c8d54d76d5e7)
+
 Graphs:
 A graph can be mathematically defined as G=(V, E) where V = Vertex (or node) attributes and E = Edges (or link) attributes and directions. It is basically a structure that contains nodes and edges which interconnect these. Both nodes and edges can have features that describe them.
 A graph can be mathematically defined as G=(V, E) where V = Vertex (or node) attributes and E = Edges (or link) attributes and directions. It is basically a structure that contains nodes and edges which interconnect these. Both nodes and edges can have features that describe them.
@@ -11,6 +12,8 @@ A graph can be mathematically defined as G=(V, E) where V = Vertex (or node) att
 
 There are three main types of graphs: undirected, directed and weighted
 ![image](https://github.com/KPchandra18/Detection-of-DDOS/assets/93926748/6975054a-967b-40af-8c8f-3c75f014b815)
+
+
 Introduction To GNN(Graph Neural Network):
 GNNs are a type of advanced computer system that are really good at working with data that looks like a network or a map. They can understand the connections between things in a network, which is perfect for IoT networks.
 It can work with data that has a graph structure, which is common in various real-world applications like social networks, biology, and telecommunications. .
