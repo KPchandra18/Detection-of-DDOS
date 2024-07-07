@@ -20,7 +20,7 @@ We can do multiple types of classifications within a graph:
              1. Graph-level: we can leverage a GNN to classify an entire graph. 
              2. Node-level: we can leverage a GNN to classify only certain nodes of the graph. 
              3. Edge-level: we can leverage a GNN to predict new edges within a graph
-![image](https://github.com/KPchandra18/Detection-of-DDOS/assets/93926748/0cb1906f-c2d0-4a90-9e6a-fae00e803456)
+
 Uses Of Endpoint Traffic Graph: The endpoint traffic graph captures the entire interaction process between clients and servers. This graph includes information about traffic patterns, which can be categorized into two types: relationships among packets and relationships among flows. Packet relationships represent the structural details within a flow, whereas flow relationships convey details about bursts and recurring patterns in flows. Both of these types of information are valuable for distinguishing Distributed Denial of Service (DDoS) attacks.
 
 
